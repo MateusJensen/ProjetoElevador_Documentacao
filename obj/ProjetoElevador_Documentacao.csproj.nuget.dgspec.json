@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\Documents\\Projeto C#\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {}
+    "C:\\Users\\mateu\\Documents\\GitHub\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\Documents\\Projeto C#\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {
+    "C:\\Users\\mateu\\Documents\\GitHub\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Documents\\Projeto C#\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\Documents\\GitHub\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
         "projectName": "ProjetoElevador_Documentacao",
-        "projectPath": "C:\\Users\\mateu\\Documents\\Projeto C#\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
+        "projectPath": "C:\\Users\\mateu\\Documents\\GitHub\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Documents\\Projeto C#\\ProjetoElevador_Documentacao\\ProjetoElevador_Documentacao\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\Documents\\GitHub\\ProjetoElevador_Documentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
